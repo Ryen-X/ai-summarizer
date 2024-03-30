@@ -1,8 +1,8 @@
-# React + Vite
+# RX Tools AI Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This AI web-app tool helps you to summarize long articles in few paragraphs. Currently, it is only capable to summarizing english articles only.
 
-Currently, two official plugins are available:
+PLEASE BE AWARE THAT THIS WEB APP CAN MAKE UPTO 100 REQUESTS PER MONTH ONLY.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Server:
+https://rxtools.netlify.app/
